@@ -11,7 +11,7 @@ import java.util.List;
 @ManagedBean
 @ViewScoped
 public class PersonPage {
-
+// plapla
   @Inject
   private PersonService personRepository;
 
